@@ -1,5 +1,5 @@
 # 🛒 ShopEase Fullstack E-Commerce Project
-
+ 
 ![image](https://github.com/user-attachments/assets/d623b68b-023e-420f-90c4-143a9285780e)
 
 
